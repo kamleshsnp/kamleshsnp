@@ -1,6 +1,6 @@
 - 👋 **Hi, I’m Kamlesh **
 - 👀 I’m interested in Writing Automation code, Expanding knowledge in Software Defined networking (SDN), Network Functional Vertulization (NFV), Kubernetes. Orchestration Platform like ONAP,NON-RT/RT-RIC and MANO
-- 🌱 I’m currently learning Enterprise Software Archicture (Togaff) 
+- 🌱 I’m currently learning  
 - 📫 How to reach me +91-7795584362, kamleshsnp@gmail.com
 
 <!---
